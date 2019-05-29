@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="youtuber" size="0.100000 0.100000" />
+    <ImageTarget name="Caffe" size="0.600000 0.572325" />
+    <ImageTarget name="Esse" size="0.300000 0.194008" />
+    <ImageTarget name="atm" size="0.300000 0.483786" />
+    <ImageTarget name="20Euros" size="0.250000 0.455279" />
+  </Tracking>
+</QCARConfig>
